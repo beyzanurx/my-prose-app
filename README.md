@@ -1,4 +1,4 @@
-# My Prose App
+# My-Prose-App
 
 Ein interaktives Maven-basiertes Java-Projekt, das im Rahmen des Kurses "Open Source Software Development" entstanden ist. Die Anwendung nutzt ein modulares System, um dynamisch Sätze aus verschiedenen Abhängigkeiten (Dependencies) über das GitHub Packages Repository zu laden, zu kombinieren und auf dem Terminal auszugeben. Das Prinzip ähnelt dem klassischen Falttext-Erzählspiel (*Folded Paper Storytelling Game*).
 
@@ -13,6 +13,7 @@ Ein interaktives Maven-basiertes Java-Projekt, das im Rahmen des Kurses "Open So
 * **GitHub Personal Access Token (PAT):** Wird für die Authentifizierung beim Download/Upload der GitHub Packages benötigt.
 
 ## Installation & Setup
+mvn clean install
 
 ### 1. GitHub Authentifizierung konfigurieren
 Damit Maven die benötigte `prose-builder`-Bibliothek herunterladen kann, muss dein GitHub-Token in deiner globalen Maven-Konfiguration hinterlegt sein.
