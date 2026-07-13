@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2026 beyzanurx
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
 package de.htw_berlin.fb4.ossd;
 
 import org.junit.jupiter.api.Test;
