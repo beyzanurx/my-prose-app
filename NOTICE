@@ -1,0 +1,11 @@
+Prose-Builder
+Copyright (c) 2026 beyzanurx
+
+This product includes software developed by the Prose-Builder team.
+
+This project is licensed under the MIT License. See the LICENSE file in the
+project root for the full license text.
+
+Third-Party Dependencies:
+- This project utilizes Apache Maven for dependency management and build automation.
+- Automated testing is executed via JUnit 5.
